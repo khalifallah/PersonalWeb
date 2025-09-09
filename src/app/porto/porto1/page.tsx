@@ -101,7 +101,7 @@ export default function Porto1() {
       >
         <figure className="w-full aspect-video bg-base-200 overflow-hidden rounded-xl">
           <img
-            src="/Img/porto1.png"
+            src="/img/porto1.png"
             alt="New York Taxi dashboard"
             className="w-full h-full object-cover"
             loading="lazy"

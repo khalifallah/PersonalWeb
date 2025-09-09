@@ -18,7 +18,7 @@ export default function Porto() {
           <div className="card bg-base-100 w-full max-w-sm shadow-sm hover:shadow-md transition-shadow">
             <figure className="aspect-video bg-base-200 overflow-hidden">
               <img
-                src="/Img/porto1.png"
+                src="/img/porto1.png"
                 alt="New York Taxi Project"
                 className="h-full w-full object-cover"
                 loading="lazy"
@@ -42,7 +42,7 @@ export default function Porto() {
           <div className="card bg-base-100 w-full max-w-sm shadow-sm hover:shadow-md transition-shadow">
             <figure className="aspect-video bg-base-200 overflow-hidden">
               <img
-                src="/Img/porto1.png"
+                src="/img/porto1.png"
                 alt="New York Taxi Project"
                 className="h-full w-full object-cover"
                 loading="lazy"
@@ -66,7 +66,7 @@ export default function Porto() {
           <div className="card bg-base-100 w-full max-w-sm shadow-sm hover:shadow-md transition-shadow">
             <figure className="aspect-video bg-base-200 overflow-hidden">
               <img
-                src="/Img/porto1.png"
+                src="/img/porto1.png"
                 alt="New York Taxi Project"
                 className="h-full w-full object-cover"
                 loading="lazy"

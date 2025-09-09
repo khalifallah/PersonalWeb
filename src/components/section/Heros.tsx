@@ -11,7 +11,7 @@ export default function Heros() {
             <div className="w-full flex items-center justify-center lg:justify-end">
               <div className="w-full max-w-[12rem] sm:max-w-[16rem] md:max-w-[20rem] lg:max-w-[24rem] aspect-square rounded-2xl overflow-hidden shadow-2xl bg-base-200">
                 <img
-                  src="/Img/profile1.jpg"
+                  src="/img/profile1.jpg"
                   alt="Portrait of Khalifallah El Aziz"
                   className="h-full w-full object-cover"
                   loading="lazy"
